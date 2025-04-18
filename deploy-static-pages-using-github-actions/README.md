@@ -74,5 +74,3 @@ Check the 'Actions' tab in your GitHub repository to see the execution of your w
 ## **Conclusion** 
 
 By leveraging GitHub Actions, you can automate the generation and deployment of static pages, making your development process more efficient and your projects more dynamic. This setup not only reduces manual errors but also ensures that your content is always up-to-date with the latest changes in your repository. 
-
- 
